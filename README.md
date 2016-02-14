@@ -6,12 +6,16 @@
 <br>比较好用的侧边栏框架,纯代码使用,可以配合storyboard使用
 
 >[MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-<br>老牌HUD	
+<br>老牌HUD,使用简单
 
 >[SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
-<br>多种状态HUD
+<br>多状态HUD
 	
+>[KVNProgress](https://github.com/kevin-hirsch/KVNProgress)
+<br>多彩HUD
 	
+>[MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+<br>下拉刷新框架
 
 ##功能项目
 >[jrswizzle](https://github.com/rentzsch/jrswizzle)
@@ -19,6 +23,12 @@
 
 >[Masonry](https://github.com/SnapKit/Masonry)
 <br>代码实现Autolayout的几个框架中比较简短的
+
+>[FMDB](https://github.com/ccgus/fmdb)
+<br>对sqlite3的封装
+
+>[YYModel](https://github.com/ibireme/YYModel)
+<br>当前众多model框架中性能最好的,使用coreFunction实现
 
 ##请求框架
 >[ASIHttpRequest](https://github.com/pokeb/asi-http-request)
